@@ -1,0 +1,47 @@
+[
+
+    
+    {
+        "id"       : "1",
+       "photo"     : "http://ezbackgrounds.com/images/blog/history-log.png",
+       "text"      :"We got you! It's time to get channel your inner Rocky, get the eye and embrace these quotes about the importance of never giving up!"
+
+    },
+     {
+        "id"       : "2",
+       "photo"     : "https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png",
+       "text"      :"وصلنا لك! حان الوقت للحصول على قناة  الداخلية الخاصة بك ، والحصول على عين النمر ، واحتضان هذه الاقتباسات حول أهمية عدم الاستسلام أبدًا!"
+
+
+    }, 
+    {
+        "id"       : "3",
+       "photo"     : "https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png",
+       "text"      :"我们抓到你了！是时候引导你内心的洛基了，得到老虎的眼睛，并接受这些关于永不放弃的重要性的名言！"
+
+
+    },
+    {
+        "id"       : "4",
+       "photo"     : "https://cdn-icons-png.flaticon.com/512/888/888936.png",
+       "text"      :"وصلنا لك! حان الوقت للحصول على قناة الداخلية الخاصة بك ، والحصول على عين النمر ، واحتضان هذه الاقتباسات حول أهمية عدم الاستسلام أبدًا!"
+
+
+    },
+    {
+        "id"      : "5",
+        "photo"    :"https://i2.wp.com/www.onasus.com/wp-content/uploads/2018/04/vuejs-javascript-framework.jpg?fit=544%2C550&ssl=1",
+        "text"      :"我们抓到你了！是时候引导你内心的洛基了，得到老虎的眼睛，并接受这些关于永不放弃的重要性的名言！"
+ 
+    }
+    ,
+    {
+        "id"      : "6",
+        "photo"    :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI01eJWuiEoY7XWmq5MvADxR9iXDuSItTfFA&usqp=CAU",
+        "text"      :"وصلنا لك! حان الوقت للحصول على قناة  الداخلية الخاصة بك ، والحصول على عين النمر ، واحتضان هذه الاقتباسات حول أهمية عدم الاستسلام أبدًا!"
+ 
+    }
+ 
+
+
+]
