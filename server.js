@@ -8,7 +8,7 @@ const expressEjsLayouts = require('express-ejs-layouts')
 const routes =require('./router/routers')
 
 
-//  enviroment variables
+//  enviroment f variables
 
 dotenv.config()
 const port = process.env.PORT || 4000;
